@@ -2,7 +2,7 @@
 Commands, tips, suggestions and more...
 
 
-## Basic Commands
+## Advanced Commands
 
 
 Return a branch after commit:
