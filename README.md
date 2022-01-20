@@ -197,6 +197,21 @@ git push origin master</p>
          </ul>
      </td>
  </tr>
+ 
+  <tr align="center">
+     <td><a href="">git reset</a></td>
+     <td>
+         <ul>
+             <p>To reset the index and working directory to the state of the last commit, the git reset command is used</p>
+         </ul>
+     </td>
+    <td>
+         <ul>
+             <p><a href=""></p>:mag:</li>
+         </ul>
+     </td>
+ </tr>
+ 
 </table>
 
 ## Advanced Commands
